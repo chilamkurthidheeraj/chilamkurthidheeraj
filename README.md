@@ -40,7 +40,7 @@
 - Built **ML models** achieving **99.88% accuracy** for crash severity predictions.  
 - Conducted **spatial & temporal analysis** to optimize traffic safety measures.  
 
-### 📉 Business Intelligence Dashboard (Power BI & SQL)  
+### 📉 Business Intelligence Dashboard (Informatica Powercenter & SQL)  
 - Developed an **interactive sales dashboard** for a retail company.  
 - Integrated **SQL views & ETL workflows** for real-time analytics.  
 - Provided **data-driven insights** for inventory & sales optimization.  
